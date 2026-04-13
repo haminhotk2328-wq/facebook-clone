@@ -1,0 +1,5 @@
+{
+  "name": "Facebook Clone",
+  "description": "A polished Facebook-like social media interface built with React, Tailwind CSS, and shadcn/ui.",
+  "requestFramePermissions": []
+}
